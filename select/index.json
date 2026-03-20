@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Crazy Little Love",
+  "base_artist": "Nuage",
+  "createdAt": "2026-03-20T07:29:00.916488Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "NUAGE",
+      "has_synced": true,
+      "path": "select/01_Crazy_Little_Love_NUAGE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "Nuage",
+      "has_synced": false,
+      "path": "select/02_Crazy_Little_Love_Nuage.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "Nuage",
+      "has_synced": true,
+      "path": "select/03_Crazy_Little_Love_Nuage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "Nuage - Topic",
+      "has_synced": true,
+      "path": "select/04_Crazy_Little_Love_Nuage_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "Nuage",
+      "has_synced": true,
+      "path": "select/05_Crazy_Little_Love_Nuage.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "Nuage",
+      "has_synced": true,
+      "path": "select/06_Crazy_Little_Love_Nuage.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "Nuage",
+      "has_synced": true,
+      "path": "select/07_Crazy_Little_Love_Nuage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CRAZY LITTLE LOVE SEB version",
+      "artist": "NUAGE",
+      "has_synced": true,
+      "path": "select/08_CRAZY_LITTLE_LOVE_SEB_version_NUAGE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Crazy Little Love",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/09_Crazy_Little_Love_Various_Artists.txt"
+    }
+  ]
+}
