@@ -1,4 +1,4 @@
-# NUAGE – CRAZY LITTLE LOVE
+# Nuage – Crazy Little Love
 
 > **歌詞登録ステータス：同期歌詞あり**
 
